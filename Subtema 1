@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> subtitulo 1</title>
+<style>
+body {padding:10px;
+background-color:yellow;
+</style>
+</head>
+<body>
+<h1>hola </h1>
+</body>
+</html>
